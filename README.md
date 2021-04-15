@@ -10,9 +10,14 @@ Arshiya Gahlot, IDC IIT Bombay, 206330011@iitb.ac.in
 John Paul Kujur, IDC IIT Bombay, 206330007@iitb.ac.in
 Jribh Shandilya, IDC IIT Bombay, 206330010@iitb.ac.in
 
-under the guidance of 
-Jayesh pillai, IDC IIT Bombay
-Venkatesh R, IDC IIT Bombay.
+under the guidance of: 
+Pillai, Jayesh
+Assistant Professor
+jay@iitb.ac.in
+
+Venkatesh Rajamanickam
+Professor
+venkatra@iitb.ac.in
 
 
 content:
