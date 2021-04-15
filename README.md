@@ -11,7 +11,7 @@ John Paul Kujur, IDC IIT Bombay, 206330007@iitb.ac.in
 Jribh Shandilya, IDC IIT Bombay, 206330010@iitb.ac.in
 
 under the guidance of 
-Jeyesh pillai, IDC IIT Bombay
+Jayesh pillai, IDC IIT Bombay
 Venkatesh R, IDC IIT Bombay.
 
 
